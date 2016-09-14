@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Permissions App</string>
+    <string name="button_text_required_permission">Required Permission</string>
+    <string name="button_text_optional_permission">Optional Permission</string>
+    <string name="button_text_permission_list">Permission List</string>
+
+    <!-- Strings related to permission -->
+    <string name="message_permission_rationale">This permission is required for continuing</string>
+    <string name="message_optional_permission_granted">Optional Permission granted</string>
+    <string name="message_required_permission_granted">Required permission granted</string>
+    <string name="message_permission_list_granted">Permission List granted</string>
+</resources>
