@@ -1,5 +1,7 @@
 [![Release](https://jitpack.io/v/rajeefmk/runtimepermissionhandler.svg)](https://jitpack.io/#rajeefmk/runtimepermissionhandler)
 
+<a href="http://www.methodscount.com/?lib=com.github.rajeefmk%3Aruntimepermissionhandler%3A1.0.1"><img src="https://img.shields.io/badge/Size-8 KB-e91e63.svg"/></a>
+
 # Runtime Permission Handler
 
 The library came out as an effort to reduce the boilerplate required for getting runtime permissions for Android devices running OS 6.0 and above.
