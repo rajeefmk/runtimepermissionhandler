@@ -3,7 +3,7 @@ package com.themvpguy.permissionsapp;
 import android.Manifest;
 import android.content.Context;
 
-import com.themvpguy.runtimepermissionhandler.PermissionUtils;
+import com.rajeefmk.runtimepermissionhandler.PermissionUtils;
 
 /**
  * Created by rjhashlearn on 14/9/16.

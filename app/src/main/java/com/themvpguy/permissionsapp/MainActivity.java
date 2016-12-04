@@ -4,8 +4,8 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.Toast;
 
-import com.themvpguy.runtimepermissionhandler.PermissionUtils;
-import com.themvpguy.runtimepermissionhandler.PermissionsApi;
+import com.rajeefmk.runtimepermissionhandler.PermissionUtils;
+import com.rajeefmk.runtimepermissionhandler.PermissionsApi;
 
 import butterknife.ButterKnife;
 import butterknife.OnClick;

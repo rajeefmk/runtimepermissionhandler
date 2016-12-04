@@ -1,4 +1,4 @@
-package com.themvpguy.runtimepermissionhandler;
+package com.rajeefmk.runtimepermissionhandler;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -11,6 +11,7 @@ import android.os.Build;
 import android.provider.Settings;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.content.ContextCompat;
+
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.themvpguy.runtimepermissionhandler;
+package com.rajeefmk.runtimepermissionhandler;
 
 /**
  * Created by rmk on 22/2/16.
