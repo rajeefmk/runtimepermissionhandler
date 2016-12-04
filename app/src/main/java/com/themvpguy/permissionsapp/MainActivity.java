@@ -2,26 +2,15 @@ package com.themvpguy.permissionsapp;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import android.widget.Button;
 import android.widget.Toast;
 
 import com.themvpguy.runtimepermissionhandler.PermissionUtils;
 import com.themvpguy.runtimepermissionhandler.PermissionsApi;
 
-import butterknife.Bind;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
 
 public class MainActivity extends AppCompatActivity implements PermissionsApi.PermissionCallback {
-
-    @Bind(R.id.optional_permission)
-    Button mOptionPermissionButton;
-
-    @Bind(R.id.required_permission)
-    Button mRequiredPermissionButton;
-
-    @Bind(R.id.permission_list)
-    Button mPermissionListButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
