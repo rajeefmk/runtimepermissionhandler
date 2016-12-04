@@ -18,7 +18,7 @@ repositories {
 }
 
 dependencies {
-    compile 'com.github.rajeefmk:runtimepermissionhandler:1.0.0'
+    compile 'com.github.rajeefmk:runtimepermissionhandler:1.0.1'
 
     // Other dependencies your app might use
 }
