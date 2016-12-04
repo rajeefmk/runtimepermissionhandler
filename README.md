@@ -1,5 +1,4 @@
 [![Release](https://jitpack.io/v/rajeefmk/runtimepermissionhandler.svg)](https://jitpack.io/#rajeefmk/runtimepermissionhandler)
-
 <a href="http://www.methodscount.com/?lib=com.github.rajeefmk%3Aruntimepermissionhandler%3A1.0.1"><img src="https://img.shields.io/badge/Size-8 KB-e91e63.svg"/></a>
 
 # Runtime Permission Handler
@@ -134,7 +133,10 @@ These methods are implemented for handling permission granted and denied cases.
         //Based on denied permission request code, handle the case accordingly.
     }
 ```
+## TODO
 
+- [ ] Annotation instead of interfaces
+- [ ] Support screen rotation / configuration change
 
 ## Help
 
