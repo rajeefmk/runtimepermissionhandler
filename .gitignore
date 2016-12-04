@@ -3,15 +3,10 @@
 /.idea/workspace.xml
 /.idea/libraries
 .DS_Store
-/build
 /captures
 
 .DS_Store
 
-# files for the dex VM
-# Built application files
-*.apk
-*.ap_
 
 # Files for the ART/Dalvik VM
 *.dex
@@ -22,10 +17,6 @@
 # Generated files
 bin/
 gen/
-out/
-
-# Gradle files
-build/
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -48,7 +39,6 @@ unused.txt
 *~
 *.swp~
 
-build
 app/src/main/res/drawable-xxxhdpi/Thumbs.db
 app/src/main/res/drawable-xxhdpi/Thumbs.db
 *.db
