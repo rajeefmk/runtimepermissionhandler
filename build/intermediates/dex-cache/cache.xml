@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/rjhashlearn/PermissionsApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/rjhashlearn/PermissionsApp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_00730ed3640c7905196ba0ae8fb4affa30216cce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rjhashlearn/PermissionsApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/rjhashlearn/PermissionsApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_f95da97b225efc898c8253f4ea3166eacb68eed9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rjhashlearn/PermissionsApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/rjhashlearn/PermissionsApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_ab9f00fa7cf1206d6e39e8e0e8a0dbd77164d6d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rjhashlearn/PermissionsApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/rjhashlearn/PermissionsApp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_383a85fe100facd4ebb4336c927868abaeab8071.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rjhashlearn/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/home/rjhashlearn/PermissionsApp/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1_60903d9d3a8ca955604a58f2310a0104cfd11e9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rjhashlearn/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/rjhashlearn/PermissionsApp/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_58449b21b3d76b770c749d7a990a9eb9b7853c51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rjhashlearn/PermissionsApp/app/build/intermediates/exploded-aar/com.github.rajeefmk/runtimepermissionhandler/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c20a8b86ce1bbd16488596a14d7f7fe96171a87d">
+        <dex dex="/home/rjhashlearn/PermissionsApp/app/build/intermediates/pre-dexed/debug/com.github.rajeefmk-runtimepermissionhandler-unspecified_b5f2e54f078905362d0aa532f50b0cf8e1bf0088.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rjhashlearn/PermissionsApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/rjhashlearn/PermissionsApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_75a1e633a8c0506974567f3c2565bdd5c5e95707.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rjhashlearn/PermissionsApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/rjhashlearn/PermissionsApp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_8a313def45723b59c02103329fce48332d31aaaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rjhashlearn/PermissionsApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/rjhashlearn/PermissionsApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_ad9fce9c8c815e6115beaeacb02933fe9c3d4026.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rjhashlearn/PermissionsApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/rjhashlearn/PermissionsApp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_38afb04ee7c7909fe8aa6ebe53c75dcb1f4a64b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rjhashlearn/PermissionsApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/rjhashlearn/PermissionsApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_b57ed9abf76b4f588211cfd0552304479edfd642.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rjhashlearn/PermissionsApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/rjhashlearn/PermissionsApp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_6780889d01ee6888a9387b200dc0ee716ad81cfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rjhashlearn/PermissionsApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/rjhashlearn/PermissionsApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_17aed8870b05af794249d647e7e48b2c245698f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rjhashlearn/PermissionsApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/rjhashlearn/PermissionsApp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_e534cdc5ec3430148c1df0a37c5cd904186a4da5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rjhashlearn/PermissionsApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/rjhashlearn/PermissionsApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_cb802852e214589adc368b0424496fe75ccd548b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rjhashlearn/PermissionsApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/rjhashlearn/PermissionsApp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_2267ea7ab49a93fb8e2ede142f70c168bd21fcac.jar" />
+    </item>
+
+</items>
